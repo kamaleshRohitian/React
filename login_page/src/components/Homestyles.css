@@ -1,0 +1,24 @@
+.Home{
+    margin-left: 15%;
+    margin-top: 70px;
+}
+#pie{
+    margin-top: 30px;
+    margin-left: 50px;
+    background-color:rgba(0, 0, 0, 0.3);
+}
+#pie:hover{
+   background-color: red;
+   color: white;
+}
+#bar{
+    margin-top: 30px;
+    margin-left: 50px;
+    background-color:rgba(0, 0, 0, 0.3);
+}
+#bar:hover{
+    background-color: red;
+}
+#button{
+    margin-top: 80px;
+}
